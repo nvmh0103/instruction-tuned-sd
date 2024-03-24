@@ -42,7 +42,7 @@ def parse_args():
         default="sayakpaul/whitebox-cartoonizer",
         choices=[
             "sayakpaul/whitebox-cartoonizer",
-            "instruction-tuning-vision/instruction-tuned-cartoonizer",
+            "nvmh0103/cartoonization-scratch-v2",
             "timbrooks/instruct-pix2pix",
         ],
     )
